@@ -1,0 +1,6 @@
+C:\Users\Muhammad Siraj\Documents\Visual Studio 2012\Method function\Begning practice\bin\Debug\Begning practice.exe.config
+C:\Users\Muhammad Siraj\Documents\Visual Studio 2012\Method function\Begning practice\bin\Debug\Begning practice.exe
+C:\Users\Muhammad Siraj\Documents\Visual Studio 2012\Method function\Begning practice\bin\Debug\Begning practice.pdb
+C:\Users\Muhammad Siraj\Documents\Visual Studio 2012\Method function\Begning practice\obj\Debug\Begning practice.exe
+C:\Users\Muhammad Siraj\Documents\Visual Studio 2012\Method function\Begning practice\obj\Debug\Begning practice.pdb
+C:\Users\Muhammad Siraj\Documents\Visual Studio 2012\Method function\Begning practice\obj\Debug\Begning practice.csprojResolveAssemblyReference.cache

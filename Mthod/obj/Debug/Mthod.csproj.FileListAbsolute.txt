@@ -1,0 +1,5 @@
+C:\Users\Muhammad Siraj\Documents\Visual Studio 2012\Projects\Mthod\bin\Debug\Mthod.exe.config
+C:\Users\Muhammad Siraj\Documents\Visual Studio 2012\Projects\Mthod\bin\Debug\Mthod.exe
+C:\Users\Muhammad Siraj\Documents\Visual Studio 2012\Projects\Mthod\bin\Debug\Mthod.pdb
+C:\Users\Muhammad Siraj\Documents\Visual Studio 2012\Projects\Mthod\obj\Debug\Mthod.exe
+C:\Users\Muhammad Siraj\Documents\Visual Studio 2012\Projects\Mthod\obj\Debug\Mthod.pdb

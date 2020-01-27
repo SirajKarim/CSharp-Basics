@@ -1,0 +1,5 @@
+C:\Users\Muhammad Siraj\Documents\Visual Studio 2012\Method function\Q1\bin\Debug\Q1.exe.config
+C:\Users\Muhammad Siraj\Documents\Visual Studio 2012\Method function\Q1\bin\Debug\Q1.exe
+C:\Users\Muhammad Siraj\Documents\Visual Studio 2012\Method function\Q1\bin\Debug\Q1.pdb
+C:\Users\Muhammad Siraj\Documents\Visual Studio 2012\Method function\Q1\obj\Debug\Q1.exe
+C:\Users\Muhammad Siraj\Documents\Visual Studio 2012\Method function\Q1\obj\Debug\Q1.pdb

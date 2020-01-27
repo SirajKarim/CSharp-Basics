@@ -1,0 +1,6 @@
+C:\Users\Muhammad Siraj\Documents\Visual Studio 2012\Projects\Method practice\bin\Debug\Method practice.exe.config
+C:\Users\Muhammad Siraj\Documents\Visual Studio 2012\Projects\Method practice\bin\Debug\Method practice.exe
+C:\Users\Muhammad Siraj\Documents\Visual Studio 2012\Projects\Method practice\bin\Debug\Method practice.pdb
+C:\Users\Muhammad Siraj\Documents\Visual Studio 2012\Projects\Method practice\obj\Debug\Method practice.csprojResolveAssemblyReference.cache
+C:\Users\Muhammad Siraj\Documents\Visual Studio 2012\Projects\Method practice\obj\Debug\Method practice.exe
+C:\Users\Muhammad Siraj\Documents\Visual Studio 2012\Projects\Method practice\obj\Debug\Method practice.pdb

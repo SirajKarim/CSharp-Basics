@@ -1,0 +1,6 @@
+C:\Users\Muhammad Siraj\Documents\Visual Studio 2012\Method function\Q2\bin\Debug\Q2.exe.config
+C:\Users\Muhammad Siraj\Documents\Visual Studio 2012\Method function\Q2\bin\Debug\Q2.exe
+C:\Users\Muhammad Siraj\Documents\Visual Studio 2012\Method function\Q2\bin\Debug\Q2.pdb
+C:\Users\Muhammad Siraj\Documents\Visual Studio 2012\Method function\Q2\obj\Debug\Q2.csprojResolveAssemblyReference.cache
+C:\Users\Muhammad Siraj\Documents\Visual Studio 2012\Method function\Q2\obj\Debug\Q2.exe
+C:\Users\Muhammad Siraj\Documents\Visual Studio 2012\Method function\Q2\obj\Debug\Q2.pdb
