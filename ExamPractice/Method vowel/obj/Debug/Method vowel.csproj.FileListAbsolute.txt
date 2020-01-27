@@ -1,0 +1,5 @@
+c:\users\muhammad siraj\documents\visual studio 2012\ExamPractice\Method vowel\bin\Debug\Method vowel.exe.config
+c:\users\muhammad siraj\documents\visual studio 2012\ExamPractice\Method vowel\bin\Debug\Method vowel.exe
+c:\users\muhammad siraj\documents\visual studio 2012\ExamPractice\Method vowel\bin\Debug\Method vowel.pdb
+c:\users\muhammad siraj\documents\visual studio 2012\ExamPractice\Method vowel\obj\Debug\Method vowel.exe
+c:\users\muhammad siraj\documents\visual studio 2012\ExamPractice\Method vowel\obj\Debug\Method vowel.pdb

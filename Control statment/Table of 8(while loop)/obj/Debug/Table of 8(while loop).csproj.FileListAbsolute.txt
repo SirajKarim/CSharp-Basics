@@ -1,0 +1,6 @@
+c:\users\muhammad siraj\documents\visual studio 2012\While and Do While Loop Practice\Table of 8(while loop)\bin\Debug\Table of 8(while loop).exe.config
+c:\users\muhammad siraj\documents\visual studio 2012\While and Do While Loop Practice\Table of 8(while loop)\bin\Debug\Table of 8(while loop).exe
+c:\users\muhammad siraj\documents\visual studio 2012\While and Do While Loop Practice\Table of 8(while loop)\bin\Debug\Table of 8(while loop).pdb
+c:\users\muhammad siraj\documents\visual studio 2012\While and Do While Loop Practice\Table of 8(while loop)\obj\Debug\Table of 8(while loop).csprojResolveAssemblyReference.cache
+c:\users\muhammad siraj\documents\visual studio 2012\While and Do While Loop Practice\Table of 8(while loop)\obj\Debug\Table of 8(while loop).exe
+c:\users\muhammad siraj\documents\visual studio 2012\While and Do While Loop Practice\Table of 8(while loop)\obj\Debug\Table of 8(while loop).pdb

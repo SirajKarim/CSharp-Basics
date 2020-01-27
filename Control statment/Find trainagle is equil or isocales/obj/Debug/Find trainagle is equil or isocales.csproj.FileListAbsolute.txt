@@ -1,0 +1,5 @@
+c:\users\muhammad siraj\documents\visual studio 2012\Control statment\Find trainagle is equil or isocales\bin\Debug\Find trainagle is equil or isocales.exe.config
+c:\users\muhammad siraj\documents\visual studio 2012\Control statment\Find trainagle is equil or isocales\bin\Debug\Find trainagle is equil or isocales.exe
+c:\users\muhammad siraj\documents\visual studio 2012\Control statment\Find trainagle is equil or isocales\bin\Debug\Find trainagle is equil or isocales.pdb
+c:\users\muhammad siraj\documents\visual studio 2012\Control statment\Find trainagle is equil or isocales\obj\Debug\Find trainagle is equil or isocales.exe
+c:\users\muhammad siraj\documents\visual studio 2012\Control statment\Find trainagle is equil or isocales\obj\Debug\Find trainagle is equil or isocales.pdb

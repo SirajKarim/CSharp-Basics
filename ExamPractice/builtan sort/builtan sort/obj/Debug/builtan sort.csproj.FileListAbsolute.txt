@@ -1,0 +1,5 @@
+c:\users\muhammad siraj\documents\visual studio 2012\ExamPractice\builtan sort\builtan sort\bin\Debug\builtan sort.exe.config
+c:\users\muhammad siraj\documents\visual studio 2012\ExamPractice\builtan sort\builtan sort\bin\Debug\builtan sort.exe
+c:\users\muhammad siraj\documents\visual studio 2012\ExamPractice\builtan sort\builtan sort\bin\Debug\builtan sort.pdb
+c:\users\muhammad siraj\documents\visual studio 2012\ExamPractice\builtan sort\builtan sort\obj\Debug\builtan sort.exe
+c:\users\muhammad siraj\documents\visual studio 2012\ExamPractice\builtan sort\builtan sort\obj\Debug\builtan sort.pdb

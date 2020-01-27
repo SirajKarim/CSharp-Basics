@@ -1,0 +1,5 @@
+c:\users\muhammad siraj\documents\visual studio 2012\Control statment\given number is even or odd\bin\Debug\given number is even or odd.exe.config
+c:\users\muhammad siraj\documents\visual studio 2012\Control statment\given number is even or odd\obj\Debug\given number is even or odd.exe
+c:\users\muhammad siraj\documents\visual studio 2012\Control statment\given number is even or odd\obj\Debug\given number is even or odd.pdb
+c:\users\muhammad siraj\documents\visual studio 2012\Control statment\given number is even or odd\bin\Debug\given number is even or odd.exe
+c:\users\muhammad siraj\documents\visual studio 2012\Control statment\given number is even or odd\bin\Debug\given number is even or odd.pdb

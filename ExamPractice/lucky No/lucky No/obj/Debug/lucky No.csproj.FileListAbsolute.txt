@@ -1,0 +1,5 @@
+c:\users\muhammad siraj\documents\visual studio 2012\ExamPractice\lucky No\lucky No\bin\Debug\lucky No.exe.config
+c:\users\muhammad siraj\documents\visual studio 2012\ExamPractice\lucky No\lucky No\bin\Debug\lucky No.exe
+c:\users\muhammad siraj\documents\visual studio 2012\ExamPractice\lucky No\lucky No\bin\Debug\lucky No.pdb
+c:\users\muhammad siraj\documents\visual studio 2012\ExamPractice\lucky No\lucky No\obj\Debug\lucky No.exe
+c:\users\muhammad siraj\documents\visual studio 2012\ExamPractice\lucky No\lucky No\obj\Debug\lucky No.pdb

@@ -1,0 +1,6 @@
+c:\users\muhammad siraj\documents\visual studio 2012\ExamPractice\2d array\2d array\bin\Debug\2d array.exe.config
+c:\users\muhammad siraj\documents\visual studio 2012\ExamPractice\2d array\2d array\bin\Debug\2d array.exe
+c:\users\muhammad siraj\documents\visual studio 2012\ExamPractice\2d array\2d array\bin\Debug\2d array.pdb
+c:\users\muhammad siraj\documents\visual studio 2012\ExamPractice\2d array\2d array\obj\Debug\2d array.csprojResolveAssemblyReference.cache
+c:\users\muhammad siraj\documents\visual studio 2012\ExamPractice\2d array\2d array\obj\Debug\2d array.exe
+c:\users\muhammad siraj\documents\visual studio 2012\ExamPractice\2d array\2d array\obj\Debug\2d array.pdb

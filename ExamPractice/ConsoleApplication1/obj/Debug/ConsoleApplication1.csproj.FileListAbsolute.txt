@@ -1,0 +1,5 @@
+c:\users\muhammad siraj\documents\visual studio 2012\ExamPractice\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe.config
+c:\users\muhammad siraj\documents\visual studio 2012\ExamPractice\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe
+c:\users\muhammad siraj\documents\visual studio 2012\ExamPractice\ConsoleApplication1\bin\Debug\ConsoleApplication1.pdb
+c:\users\muhammad siraj\documents\visual studio 2012\ExamPractice\ConsoleApplication1\obj\Debug\ConsoleApplication1.exe
+c:\users\muhammad siraj\documents\visual studio 2012\ExamPractice\ConsoleApplication1\obj\Debug\ConsoleApplication1.pdb

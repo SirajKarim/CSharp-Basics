@@ -1,0 +1,5 @@
+c:\users\muhammad siraj\documents\visual studio 2012\Control statment\No is posi or nega\bin\Debug\No is posi or nega.exe.config
+c:\users\muhammad siraj\documents\visual studio 2012\Control statment\No is posi or nega\bin\Debug\No is posi or nega.exe
+c:\users\muhammad siraj\documents\visual studio 2012\Control statment\No is posi or nega\bin\Debug\No is posi or nega.pdb
+c:\users\muhammad siraj\documents\visual studio 2012\Control statment\No is posi or nega\obj\Debug\No is posi or nega.exe
+c:\users\muhammad siraj\documents\visual studio 2012\Control statment\No is posi or nega\obj\Debug\No is posi or nega.pdb

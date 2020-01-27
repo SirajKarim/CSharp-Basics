@@ -1,0 +1,6 @@
+c:\users\muhammad siraj\documents\visual studio 2012\ExamPractice\Function\bin\Debug\Function.exe.config
+c:\users\muhammad siraj\documents\visual studio 2012\ExamPractice\Function\bin\Debug\Function.exe
+c:\users\muhammad siraj\documents\visual studio 2012\ExamPractice\Function\bin\Debug\Function.pdb
+c:\users\muhammad siraj\documents\visual studio 2012\ExamPractice\Function\obj\Debug\Function.csprojResolveAssemblyReference.cache
+c:\users\muhammad siraj\documents\visual studio 2012\ExamPractice\Function\obj\Debug\Function.exe
+c:\users\muhammad siraj\documents\visual studio 2012\ExamPractice\Function\obj\Debug\Function.pdb

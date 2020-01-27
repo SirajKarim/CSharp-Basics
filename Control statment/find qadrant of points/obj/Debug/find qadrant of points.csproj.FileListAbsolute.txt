@@ -1,0 +1,6 @@
+c:\users\muhammad siraj\documents\visual studio 2012\Control statment\find qadrant of points\bin\Debug\find qadrant of points.exe.config
+c:\users\muhammad siraj\documents\visual studio 2012\Control statment\find qadrant of points\bin\Debug\find qadrant of points.exe
+c:\users\muhammad siraj\documents\visual studio 2012\Control statment\find qadrant of points\bin\Debug\find qadrant of points.pdb
+c:\users\muhammad siraj\documents\visual studio 2012\Control statment\find qadrant of points\obj\Debug\find qadrant of points.csprojResolveAssemblyReference.cache
+c:\users\muhammad siraj\documents\visual studio 2012\Control statment\find qadrant of points\obj\Debug\find qadrant of points.exe
+c:\users\muhammad siraj\documents\visual studio 2012\Control statment\find qadrant of points\obj\Debug\find qadrant of points.pdb
