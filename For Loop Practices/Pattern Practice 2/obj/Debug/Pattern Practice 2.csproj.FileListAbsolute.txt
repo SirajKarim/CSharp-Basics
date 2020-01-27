@@ -1,0 +1,5 @@
+c:\users\muhammad siraj\documents\visual studio 2012\For Loop Practices\Pattern Practice 2\bin\Debug\Pattern Practice 2.exe.config
+c:\users\muhammad siraj\documents\visual studio 2012\For Loop Practices\Pattern Practice 2\bin\Debug\Pattern Practice 2.exe
+c:\users\muhammad siraj\documents\visual studio 2012\For Loop Practices\Pattern Practice 2\bin\Debug\Pattern Practice 2.pdb
+c:\users\muhammad siraj\documents\visual studio 2012\For Loop Practices\Pattern Practice 2\obj\Debug\Pattern Practice 2.exe
+c:\users\muhammad siraj\documents\visual studio 2012\For Loop Practices\Pattern Practice 2\obj\Debug\Pattern Practice 2.pdb

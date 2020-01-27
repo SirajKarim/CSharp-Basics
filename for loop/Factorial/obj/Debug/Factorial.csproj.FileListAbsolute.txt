@@ -1,0 +1,5 @@
+c:\users\muhammad siraj\documents\visual studio 2012\for loop\Factorial\bin\Debug\Factorial.exe.config
+c:\users\muhammad siraj\documents\visual studio 2012\for loop\Factorial\bin\Debug\Factorial.exe
+c:\users\muhammad siraj\documents\visual studio 2012\for loop\Factorial\bin\Debug\Factorial.pdb
+c:\users\muhammad siraj\documents\visual studio 2012\for loop\Factorial\obj\Debug\Factorial.exe
+c:\users\muhammad siraj\documents\visual studio 2012\for loop\Factorial\obj\Debug\Factorial.pdb

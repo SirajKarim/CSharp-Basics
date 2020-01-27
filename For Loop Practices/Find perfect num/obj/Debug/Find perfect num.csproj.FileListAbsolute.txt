@@ -1,0 +1,5 @@
+c:\users\muhammad siraj\documents\visual studio 2012\For Loop Practices\Find perfect num\bin\Debug\Find perfect num.exe.config
+c:\users\muhammad siraj\documents\visual studio 2012\For Loop Practices\Find perfect num\bin\Debug\Find perfect num.exe
+c:\users\muhammad siraj\documents\visual studio 2012\For Loop Practices\Find perfect num\bin\Debug\Find perfect num.pdb
+c:\users\muhammad siraj\documents\visual studio 2012\For Loop Practices\Find perfect num\obj\Debug\Find perfect num.exe
+c:\users\muhammad siraj\documents\visual studio 2012\For Loop Practices\Find perfect num\obj\Debug\Find perfect num.pdb

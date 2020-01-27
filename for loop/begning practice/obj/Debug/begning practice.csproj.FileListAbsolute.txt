@@ -1,0 +1,5 @@
+c:\users\muhammad siraj\documents\visual studio 2012\for loop\begning practice\bin\Debug\begning practice.exe.config
+c:\users\muhammad siraj\documents\visual studio 2012\for loop\begning practice\bin\Debug\begning practice.exe
+c:\users\muhammad siraj\documents\visual studio 2012\for loop\begning practice\bin\Debug\begning practice.pdb
+c:\users\muhammad siraj\documents\visual studio 2012\for loop\begning practice\obj\Debug\begning practice.exe
+c:\users\muhammad siraj\documents\visual studio 2012\for loop\begning practice\obj\Debug\begning practice.pdb

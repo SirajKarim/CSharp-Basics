@@ -1,0 +1,6 @@
+c:\users\muhammad siraj\documents\visual studio 2012\for loop\Q9\bin\Debug\Q9.exe.config
+c:\users\muhammad siraj\documents\visual studio 2012\for loop\Q9\bin\Debug\Q9.exe
+c:\users\muhammad siraj\documents\visual studio 2012\for loop\Q9\bin\Debug\Q9.pdb
+c:\users\muhammad siraj\documents\visual studio 2012\for loop\Q9\obj\Debug\Q9.csprojResolveAssemblyReference.cache
+c:\users\muhammad siraj\documents\visual studio 2012\for loop\Q9\obj\Debug\Q9.exe
+c:\users\muhammad siraj\documents\visual studio 2012\for loop\Q9\obj\Debug\Q9.pdb

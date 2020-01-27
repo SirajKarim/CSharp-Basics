@@ -1,0 +1,1 @@
+c:\users\muhammad siraj\documents\visual studio 2012\For Loop Practices\sum of 1-10 series\bin\Debug\sum of 1-10 series.exe.config

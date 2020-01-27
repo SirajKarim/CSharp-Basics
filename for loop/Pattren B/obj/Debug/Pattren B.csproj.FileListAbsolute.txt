@@ -1,0 +1,5 @@
+c:\users\muhammad siraj\documents\visual studio 2012\for loop\Pattren B\bin\Debug\Pattren B.exe.config
+c:\users\muhammad siraj\documents\visual studio 2012\for loop\Pattren B\bin\Debug\Pattren B.exe
+c:\users\muhammad siraj\documents\visual studio 2012\for loop\Pattren B\bin\Debug\Pattren B.pdb
+c:\users\muhammad siraj\documents\visual studio 2012\for loop\Pattren B\obj\Debug\Pattren B.exe
+c:\users\muhammad siraj\documents\visual studio 2012\for loop\Pattren B\obj\Debug\Pattren B.pdb

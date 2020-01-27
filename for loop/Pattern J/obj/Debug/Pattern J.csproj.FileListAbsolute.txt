@@ -1,0 +1,5 @@
+c:\users\muhammad siraj\documents\visual studio 2012\for loop\Pattern J\bin\Debug\Pattern J.exe.config
+c:\users\muhammad siraj\documents\visual studio 2012\for loop\Pattern J\bin\Debug\Pattern J.exe
+c:\users\muhammad siraj\documents\visual studio 2012\for loop\Pattern J\bin\Debug\Pattern J.pdb
+c:\users\muhammad siraj\documents\visual studio 2012\for loop\Pattern J\obj\Debug\Pattern J.exe
+c:\users\muhammad siraj\documents\visual studio 2012\for loop\Pattern J\obj\Debug\Pattern J.pdb

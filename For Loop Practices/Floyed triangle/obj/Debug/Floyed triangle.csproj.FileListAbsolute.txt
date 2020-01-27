@@ -1,0 +1,1 @@
+c:\users\muhammad siraj\documents\visual studio 2012\For Loop Practices\Floyed triangle\bin\Debug\Floyed triangle.exe.config

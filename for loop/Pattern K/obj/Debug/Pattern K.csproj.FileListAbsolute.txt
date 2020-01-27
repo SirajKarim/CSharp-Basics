@@ -1,0 +1,5 @@
+c:\users\muhammad siraj\documents\visual studio 2012\for loop\Pattern K\bin\Debug\Pattern K.exe.config
+c:\users\muhammad siraj\documents\visual studio 2012\for loop\Pattern K\bin\Debug\Pattern K.exe
+c:\users\muhammad siraj\documents\visual studio 2012\for loop\Pattern K\bin\Debug\Pattern K.pdb
+c:\users\muhammad siraj\documents\visual studio 2012\for loop\Pattern K\obj\Debug\Pattern K.exe
+c:\users\muhammad siraj\documents\visual studio 2012\for loop\Pattern K\obj\Debug\Pattern K.pdb

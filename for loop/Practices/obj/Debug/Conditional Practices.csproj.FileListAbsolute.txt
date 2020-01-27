@@ -1,0 +1,6 @@
+c:\users\muhammad siraj\documents\visual studio 2012\for loop\Practices\bin\Debug\Practices.exe.config
+c:\users\muhammad siraj\documents\visual studio 2012\for loop\Practices\bin\Debug\Practices.exe
+c:\users\muhammad siraj\documents\visual studio 2012\for loop\Practices\bin\Debug\Practices.pdb
+c:\users\muhammad siraj\documents\visual studio 2012\for loop\Practices\obj\Debug\Conditional Practices.csprojResolveAssemblyReference.cache
+c:\users\muhammad siraj\documents\visual studio 2012\for loop\Practices\obj\Debug\Practices.exe
+c:\users\muhammad siraj\documents\visual studio 2012\for loop\Practices\obj\Debug\Practices.pdb

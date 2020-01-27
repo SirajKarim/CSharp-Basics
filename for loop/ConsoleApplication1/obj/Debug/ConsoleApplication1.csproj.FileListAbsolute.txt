@@ -1,0 +1,6 @@
+c:\users\muhammad siraj\documents\visual studio 2012\for loop\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe.config
+c:\users\muhammad siraj\documents\visual studio 2012\for loop\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe
+c:\users\muhammad siraj\documents\visual studio 2012\for loop\ConsoleApplication1\bin\Debug\ConsoleApplication1.pdb
+c:\users\muhammad siraj\documents\visual studio 2012\for loop\ConsoleApplication1\obj\Debug\ConsoleApplication1.csprojResolveAssemblyReference.cache
+c:\users\muhammad siraj\documents\visual studio 2012\for loop\ConsoleApplication1\obj\Debug\ConsoleApplication1.exe
+c:\users\muhammad siraj\documents\visual studio 2012\for loop\ConsoleApplication1\obj\Debug\ConsoleApplication1.pdb

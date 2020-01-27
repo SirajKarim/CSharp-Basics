@@ -1,0 +1,5 @@
+c:\users\muhammad siraj\documents\visual studio 2012\For Loop Practices\pattern(Right angle Num);\bin\Debug\pattern(Right angle Num);.exe.config
+c:\users\muhammad siraj\documents\visual studio 2012\For Loop Practices\pattern(Right angle Num);\bin\Debug\pattern(Right angle Num);.exe
+c:\users\muhammad siraj\documents\visual studio 2012\For Loop Practices\pattern(Right angle Num);\bin\Debug\pattern(Right angle Num);.pdb
+c:\users\muhammad siraj\documents\visual studio 2012\For Loop Practices\pattern(Right angle Num);\obj\Debug\pattern(Right angle Num);.exe
+c:\users\muhammad siraj\documents\visual studio 2012\For Loop Practices\pattern(Right angle Num);\obj\Debug\pattern(Right angle Num);.pdb

@@ -1,0 +1,6 @@
+c:\users\muhammad siraj\documents\visual studio 2012\For Loop Practices\Series and sum of odd num\bin\Debug\Series and sum of odd num.exe.config
+c:\users\muhammad siraj\documents\visual studio 2012\For Loop Practices\Series and sum of odd num\bin\Debug\Series and sum of odd num.exe
+c:\users\muhammad siraj\documents\visual studio 2012\For Loop Practices\Series and sum of odd num\bin\Debug\Series and sum of odd num.pdb
+c:\users\muhammad siraj\documents\visual studio 2012\For Loop Practices\Series and sum of odd num\obj\Debug\Series and sum of odd num.csprojResolveAssemblyReference.cache
+c:\users\muhammad siraj\documents\visual studio 2012\For Loop Practices\Series and sum of odd num\obj\Debug\Series and sum of odd num.exe
+c:\users\muhammad siraj\documents\visual studio 2012\For Loop Practices\Series and sum of odd num\obj\Debug\Series and sum of odd num.pdb

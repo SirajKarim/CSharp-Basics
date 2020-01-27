@@ -1,0 +1,3 @@
+﻿1>------ Build started: Project: Series and sum of odd num, Configuration: Debug Any CPU ------
+1>  Series and sum of odd num -> c:\users\muhammad siraj\documents\visual studio 2012\For Loop Practices\Series and sum of odd num\bin\Debug\Series and sum of odd num.exe
+========== Build: 1 succeeded, 0 failed, 0 up-to-date, 0 skipped ==========

@@ -1,0 +1,8 @@
+c:\users\muhammad siraj\documents\visual studio 2012\For Loop Practices\Pattern Practice4\bin\Debug\Pattern Practice4.exe.config
+c:\users\muhammad siraj\documents\visual studio 2012\For Loop Practices\Pattern Practice4\bin\Debug\Pattern Practice4.exe
+c:\users\muhammad siraj\documents\visual studio 2012\For Loop Practices\Pattern Practice4\bin\Debug\Pattern Practice4.pdb
+c:\users\muhammad siraj\documents\visual studio 2012\For Loop Practices\Pattern Practice4\obj\Debug\Pattern Practice4.csprojResolveAssemblyReference.cache
+c:\users\muhammad siraj\documents\visual studio 2012\For Loop Practices\Pattern Practice4\obj\Debug\Pattern_Practice4.Properties.Resources.resources
+c:\users\muhammad siraj\documents\visual studio 2012\For Loop Practices\Pattern Practice4\obj\Debug\Pattern Practice4.csproj.GenerateResource.Cache
+c:\users\muhammad siraj\documents\visual studio 2012\For Loop Practices\Pattern Practice4\obj\Debug\Pattern Practice4.exe
+c:\users\muhammad siraj\documents\visual studio 2012\For Loop Practices\Pattern Practice4\obj\Debug\Pattern Practice4.pdb

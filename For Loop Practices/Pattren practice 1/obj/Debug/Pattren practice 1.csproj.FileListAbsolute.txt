@@ -1,0 +1,5 @@
+c:\users\muhammad siraj\documents\visual studio 2012\For Loop Practices\Pattren practice 1\bin\Debug\Pattren practice 1.exe.config
+c:\users\muhammad siraj\documents\visual studio 2012\For Loop Practices\Pattren practice 1\bin\Debug\Pattren practice 1.exe
+c:\users\muhammad siraj\documents\visual studio 2012\For Loop Practices\Pattren practice 1\bin\Debug\Pattren practice 1.pdb
+c:\users\muhammad siraj\documents\visual studio 2012\For Loop Practices\Pattren practice 1\obj\Debug\Pattren practice 1.exe
+c:\users\muhammad siraj\documents\visual studio 2012\For Loop Practices\Pattren practice 1\obj\Debug\Pattren practice 1.pdb

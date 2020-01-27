@@ -1,0 +1,5 @@
+c:\users\muhammad siraj\documents\visual studio 2012\For Loop Practices\sum of n series\bin\Debug\sum of n series.exe.config
+c:\users\muhammad siraj\documents\visual studio 2012\For Loop Practices\sum of n series\bin\Debug\sum of n series.exe
+c:\users\muhammad siraj\documents\visual studio 2012\For Loop Practices\sum of n series\bin\Debug\sum of n series.pdb
+c:\users\muhammad siraj\documents\visual studio 2012\For Loop Practices\sum of n series\obj\Debug\sum of n series.exe
+c:\users\muhammad siraj\documents\visual studio 2012\For Loop Practices\sum of n series\obj\Debug\sum of n series.pdb

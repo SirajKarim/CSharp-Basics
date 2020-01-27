@@ -1,0 +1,6 @@
+c:\users\muhammad siraj\documents\visual studio 2012\For Loop Practices\Pattern practice6\bin\Debug\Pattern practice6.exe.config
+c:\users\muhammad siraj\documents\visual studio 2012\For Loop Practices\Pattern practice6\bin\Debug\Pattern practice6.exe
+c:\users\muhammad siraj\documents\visual studio 2012\For Loop Practices\Pattern practice6\bin\Debug\Pattern practice6.pdb
+c:\users\muhammad siraj\documents\visual studio 2012\For Loop Practices\Pattern practice6\obj\Debug\Pattern practice6.csprojResolveAssemblyReference.cache
+c:\users\muhammad siraj\documents\visual studio 2012\For Loop Practices\Pattern practice6\obj\Debug\Pattern practice6.exe
+c:\users\muhammad siraj\documents\visual studio 2012\For Loop Practices\Pattern practice6\obj\Debug\Pattern practice6.pdb

@@ -1,0 +1,3 @@
+﻿1>------ Build started: Project: pattern(Right angle Num);, Configuration: Debug Any CPU ------
+1>  pattern(Right angle Num); -> c:\users\muhammad siraj\documents\visual studio 2012\For Loop Practices\pattern(Right angle Num);\bin\Debug\pattern(Right angle Num);.exe
+========== Build: 1 succeeded, 0 failed, 0 up-to-date, 0 skipped ==========

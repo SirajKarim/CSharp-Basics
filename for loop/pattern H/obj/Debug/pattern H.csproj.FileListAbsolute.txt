@@ -1,0 +1,6 @@
+c:\users\muhammad siraj\documents\visual studio 2012\for loop\pattern H\bin\Debug\pattern H.exe.config
+c:\users\muhammad siraj\documents\visual studio 2012\for loop\pattern H\bin\Debug\pattern H.exe
+c:\users\muhammad siraj\documents\visual studio 2012\for loop\pattern H\bin\Debug\pattern H.pdb
+c:\users\muhammad siraj\documents\visual studio 2012\for loop\pattern H\obj\Debug\pattern H.csprojResolveAssemblyReference.cache
+c:\users\muhammad siraj\documents\visual studio 2012\for loop\pattern H\obj\Debug\pattern H.exe
+c:\users\muhammad siraj\documents\visual studio 2012\for loop\pattern H\obj\Debug\pattern H.pdb

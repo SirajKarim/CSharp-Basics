@@ -1,0 +1,5 @@
+c:\users\muhammad siraj\documents\visual studio 2012\For Loop Practices\Pattern paractice\bin\Debug\Pattern paractice.exe.config
+c:\users\muhammad siraj\documents\visual studio 2012\For Loop Practices\Pattern paractice\bin\Debug\Pattern paractice.exe
+c:\users\muhammad siraj\documents\visual studio 2012\For Loop Practices\Pattern paractice\bin\Debug\Pattern paractice.pdb
+c:\users\muhammad siraj\documents\visual studio 2012\For Loop Practices\Pattern paractice\obj\Debug\Pattern paractice.exe
+c:\users\muhammad siraj\documents\visual studio 2012\For Loop Practices\Pattern paractice\obj\Debug\Pattern paractice.pdb

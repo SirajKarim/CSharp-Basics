@@ -1,0 +1,6 @@
+c:\users\muhammad siraj\documents\visual studio 2012\for loop\Pattrens\bin\Debug\Pattrens.exe.config
+c:\users\muhammad siraj\documents\visual studio 2012\for loop\Pattrens\bin\Debug\Pattrens.exe
+c:\users\muhammad siraj\documents\visual studio 2012\for loop\Pattrens\bin\Debug\Pattrens.pdb
+c:\users\muhammad siraj\documents\visual studio 2012\for loop\Pattrens\obj\Debug\Pattrens.exe
+c:\users\muhammad siraj\documents\visual studio 2012\for loop\Pattrens\obj\Debug\Pattrens.pdb
+C:\Users\Muhammad Siraj\documents\visual studio 2012\for loop\Pattrens\obj\Debug\Pattrens.csprojResolveAssemblyReference.cache

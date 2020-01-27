@@ -1,0 +1,5 @@
+c:\users\muhammad siraj\documents\visual studio 2012\for loop\Fabonaci series\bin\Debug\Fabonaci series.exe.config
+C:\Users\Muhammad Siraj\Documents\Visual Studio 2012\for loop\Fabonaci series\bin\Debug\Fabonaci series.exe
+C:\Users\Muhammad Siraj\Documents\Visual Studio 2012\for loop\Fabonaci series\bin\Debug\Fabonaci series.pdb
+C:\Users\Muhammad Siraj\Documents\Visual Studio 2012\for loop\Fabonaci series\obj\Debug\Fabonaci series.exe
+C:\Users\Muhammad Siraj\Documents\Visual Studio 2012\for loop\Fabonaci series\obj\Debug\Fabonaci series.pdb

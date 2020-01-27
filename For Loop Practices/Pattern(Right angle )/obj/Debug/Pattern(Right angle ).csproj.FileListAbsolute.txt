@@ -1,0 +1,5 @@
+c:\users\muhammad siraj\documents\visual studio 2012\For Loop Practices\Pattern(Right angle )\bin\Debug\Pattern(Right angle ).exe.config
+c:\users\muhammad siraj\documents\visual studio 2012\For Loop Practices\Pattern(Right angle )\bin\Debug\Pattern(Right angle ).exe
+c:\users\muhammad siraj\documents\visual studio 2012\For Loop Practices\Pattern(Right angle )\bin\Debug\Pattern(Right angle ).pdb
+c:\users\muhammad siraj\documents\visual studio 2012\For Loop Practices\Pattern(Right angle )\obj\Debug\Pattern(Right angle ).exe
+c:\users\muhammad siraj\documents\visual studio 2012\For Loop Practices\Pattern(Right angle )\obj\Debug\Pattern(Right angle ).pdb
