@@ -1,0 +1,6 @@
+c:\users\muhammad siraj\documents\visual studio 2012\Projects\Read and prnt rvrs arry\Read and prnt rvrs arry\bin\Debug\Read and prnt rvrs arry.exe.config
+c:\users\muhammad siraj\documents\visual studio 2012\Projects\Read and prnt rvrs arry\Read and prnt rvrs arry\bin\Debug\Read and prnt rvrs arry.exe
+c:\users\muhammad siraj\documents\visual studio 2012\Projects\Read and prnt rvrs arry\Read and prnt rvrs arry\bin\Debug\Read and prnt rvrs arry.pdb
+c:\users\muhammad siraj\documents\visual studio 2012\Projects\Read and prnt rvrs arry\Read and prnt rvrs arry\obj\Debug\Read and prnt rvrs arry.csprojResolveAssemblyReference.cache
+c:\users\muhammad siraj\documents\visual studio 2012\Projects\Read and prnt rvrs arry\Read and prnt rvrs arry\obj\Debug\Read and prnt rvrs arry.exe
+c:\users\muhammad siraj\documents\visual studio 2012\Projects\Read and prnt rvrs arry\Read and prnt rvrs arry\obj\Debug\Read and prnt rvrs arry.pdb

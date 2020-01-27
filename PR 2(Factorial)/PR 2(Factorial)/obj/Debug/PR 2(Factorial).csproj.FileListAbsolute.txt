@@ -1,0 +1,5 @@
+c:\users\muhammad siraj\documents\visual studio 2012\Projects\PR 2(Factorial)\PR 2(Factorial)\bin\Debug\PR 2(Factorial).exe.config
+c:\users\muhammad siraj\documents\visual studio 2012\Projects\PR 2(Factorial)\PR 2(Factorial)\bin\Debug\PR 2(Factorial).exe
+c:\users\muhammad siraj\documents\visual studio 2012\Projects\PR 2(Factorial)\PR 2(Factorial)\bin\Debug\PR 2(Factorial).pdb
+c:\users\muhammad siraj\documents\visual studio 2012\Projects\PR 2(Factorial)\PR 2(Factorial)\obj\Debug\PR 2(Factorial).exe
+c:\users\muhammad siraj\documents\visual studio 2012\Projects\PR 2(Factorial)\PR 2(Factorial)\obj\Debug\PR 2(Factorial).pdb

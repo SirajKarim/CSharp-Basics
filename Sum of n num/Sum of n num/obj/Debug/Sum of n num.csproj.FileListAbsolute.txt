@@ -1,0 +1,5 @@
+c:\users\muhammad siraj\documents\visual studio 2012\Projects\Sum of n num\Sum of n num\bin\Debug\Sum of n num.exe.config
+c:\users\muhammad siraj\documents\visual studio 2012\Projects\Sum of n num\Sum of n num\bin\Debug\Sum of n num.exe
+c:\users\muhammad siraj\documents\visual studio 2012\Projects\Sum of n num\Sum of n num\bin\Debug\Sum of n num.pdb
+c:\users\muhammad siraj\documents\visual studio 2012\Projects\Sum of n num\Sum of n num\obj\Debug\Sum of n num.exe
+c:\users\muhammad siraj\documents\visual studio 2012\Projects\Sum of n num\Sum of n num\obj\Debug\Sum of n num.pdb

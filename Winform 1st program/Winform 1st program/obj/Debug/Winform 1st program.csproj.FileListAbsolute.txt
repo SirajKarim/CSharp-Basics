@@ -1,0 +1,9 @@
+c:\users\muhammad siraj\documents\visual studio 2012\Projects\Winform 1st program\Winform 1st program\bin\Debug\Winform 1st program.exe.config
+c:\users\muhammad siraj\documents\visual studio 2012\Projects\Winform 1st program\Winform 1st program\obj\Debug\Winform 1st program.csprojResolveAssemblyReference.cache
+c:\users\muhammad siraj\documents\visual studio 2012\Projects\Winform 1st program\Winform 1st program\obj\Debug\Winform_1st_program.Form1.resources
+c:\users\muhammad siraj\documents\visual studio 2012\Projects\Winform 1st program\Winform 1st program\obj\Debug\Winform_1st_program.Properties.Resources.resources
+c:\users\muhammad siraj\documents\visual studio 2012\Projects\Winform 1st program\Winform 1st program\obj\Debug\Winform 1st program.csproj.GenerateResource.Cache
+c:\users\muhammad siraj\documents\visual studio 2012\Projects\Winform 1st program\Winform 1st program\bin\Debug\Winform 1st program.exe
+c:\users\muhammad siraj\documents\visual studio 2012\Projects\Winform 1st program\Winform 1st program\bin\Debug\Winform 1st program.pdb
+c:\users\muhammad siraj\documents\visual studio 2012\Projects\Winform 1st program\Winform 1st program\obj\Debug\Winform 1st program.exe
+c:\users\muhammad siraj\documents\visual studio 2012\Projects\Winform 1st program\Winform 1st program\obj\Debug\Winform 1st program.pdb

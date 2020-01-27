@@ -1,0 +1,2 @@
+c:\users\muhammad siraj\documents\visual studio 2012\Projects\stream reader\stream reader\bin\Debug\stream reader.exe.config
+C:\Users\Muhammad Siraj\Documents\Visual Studio 2012\My Programs\stream reader\stream reader\bin\Debug\stream reader.exe.config

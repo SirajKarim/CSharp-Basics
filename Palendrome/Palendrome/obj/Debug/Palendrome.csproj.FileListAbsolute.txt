@@ -1,0 +1,6 @@
+c:\users\muhammad siraj\documents\visual studio 2012\Projects\Palendrome\Palendrome\bin\Debug\Palendrome.exe.config
+C:\Users\Muhammad Siraj\documents\visual studio 2012\Projects\Palendrome\Palendrome\bin\Debug\Palendrome.exe
+C:\Users\Muhammad Siraj\documents\visual studio 2012\Projects\Palendrome\Palendrome\bin\Debug\Palendrome.pdb
+C:\Users\Muhammad Siraj\documents\visual studio 2012\Projects\Palendrome\Palendrome\obj\Debug\Palendrome.csprojResolveAssemblyReference.cache
+C:\Users\Muhammad Siraj\documents\visual studio 2012\Projects\Palendrome\Palendrome\obj\Debug\Palendrome.exe
+C:\Users\Muhammad Siraj\documents\visual studio 2012\Projects\Palendrome\Palendrome\obj\Debug\Palendrome.pdb

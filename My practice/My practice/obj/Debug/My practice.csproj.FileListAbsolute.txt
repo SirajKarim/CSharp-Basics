@@ -1,0 +1,6 @@
+c:\users\muhammad siraj\documents\visual studio 2012\Projects\My practice\My practice\bin\Debug\My practice.exe.config
+c:\users\muhammad siraj\documents\visual studio 2012\Projects\My practice\My practice\bin\Debug\My practice.exe
+c:\users\muhammad siraj\documents\visual studio 2012\Projects\My practice\My practice\bin\Debug\My practice.pdb
+c:\users\muhammad siraj\documents\visual studio 2012\Projects\My practice\My practice\obj\Debug\My practice.csprojResolveAssemblyReference.cache
+c:\users\muhammad siraj\documents\visual studio 2012\Projects\My practice\My practice\obj\Debug\My practice.exe
+c:\users\muhammad siraj\documents\visual studio 2012\Projects\My practice\My practice\obj\Debug\My practice.pdb

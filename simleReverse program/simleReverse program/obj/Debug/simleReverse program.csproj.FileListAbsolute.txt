@@ -1,0 +1,5 @@
+c:\users\muhammad siraj\documents\visual studio 2012\Projects\simleReverse program\simleReverse program\bin\Debug\simleReverse program.exe.config
+c:\users\muhammad siraj\documents\visual studio 2012\Projects\simleReverse program\simleReverse program\bin\Debug\simleReverse program.exe
+c:\users\muhammad siraj\documents\visual studio 2012\Projects\simleReverse program\simleReverse program\bin\Debug\simleReverse program.pdb
+c:\users\muhammad siraj\documents\visual studio 2012\Projects\simleReverse program\simleReverse program\obj\Debug\simleReverse program.exe
+c:\users\muhammad siraj\documents\visual studio 2012\Projects\simleReverse program\simleReverse program\obj\Debug\simleReverse program.pdb

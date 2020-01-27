@@ -1,0 +1,12 @@
+c:\users\muhammad siraj\documents\visual studio 2012\Projects\stream writer\stream writer\bin\Debug\stream writer.exe.config
+c:\users\muhammad siraj\documents\visual studio 2012\Projects\stream writer\stream writer\obj\Debug\stream writer.csprojResolveAssemblyReference.cache
+c:\users\muhammad siraj\documents\visual studio 2012\Projects\stream writer\stream writer\bin\Debug\stream writer.exe
+c:\users\muhammad siraj\documents\visual studio 2012\Projects\stream writer\stream writer\bin\Debug\stream writer.pdb
+c:\users\muhammad siraj\documents\visual studio 2012\Projects\stream writer\stream writer\obj\Debug\stream writer.exe
+c:\users\muhammad siraj\documents\visual studio 2012\Projects\stream writer\stream writer\obj\Debug\stream writer.pdb
+C:\Users\Muhammad Siraj\Documents\Visual Studio 2012\My Programs\stream writer\stream writer\bin\Debug\stream writer.exe.config
+C:\Users\Muhammad Siraj\Documents\Visual Studio 2012\My Programs\stream writer\stream writer\obj\Debug\stream writer.exe
+C:\Users\Muhammad Siraj\Documents\Visual Studio 2012\My Programs\stream writer\stream writer\obj\Debug\stream writer.pdb
+C:\Users\Muhammad Siraj\Documents\Visual Studio 2012\My Programs\stream writer\stream writer\bin\Debug\stream writer.exe
+C:\Users\Muhammad Siraj\Documents\Visual Studio 2012\My Programs\stream writer\stream writer\bin\Debug\stream writer.pdb
+C:\Users\Muhammad Siraj\Documents\Visual Studio 2012\My Programs\stream writer\stream writer\obj\Debug\stream writer.csprojResolveAssemblyReference.cache

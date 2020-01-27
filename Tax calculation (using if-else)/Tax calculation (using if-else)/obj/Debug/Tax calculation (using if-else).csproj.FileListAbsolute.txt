@@ -1,0 +1,6 @@
+c:\users\muhammad siraj\documents\visual studio 2012\Projects\Tax calculation (using if-else)\Tax calculation (using if-else)\bin\Debug\Tax calculation (using if-else).exe.config
+c:\users\muhammad siraj\documents\visual studio 2012\Projects\Tax calculation (using if-else)\Tax calculation (using if-else)\bin\Debug\Tax calculation (using if-else).exe
+c:\users\muhammad siraj\documents\visual studio 2012\Projects\Tax calculation (using if-else)\Tax calculation (using if-else)\bin\Debug\Tax calculation (using if-else).pdb
+c:\users\muhammad siraj\documents\visual studio 2012\Projects\Tax calculation (using if-else)\Tax calculation (using if-else)\obj\Debug\Tax calculation (using if-else).csprojResolveAssemblyReference.cache
+c:\users\muhammad siraj\documents\visual studio 2012\Projects\Tax calculation (using if-else)\Tax calculation (using if-else)\obj\Debug\Tax calculation (using if-else).exe
+c:\users\muhammad siraj\documents\visual studio 2012\Projects\Tax calculation (using if-else)\Tax calculation (using if-else)\obj\Debug\Tax calculation (using if-else).pdb

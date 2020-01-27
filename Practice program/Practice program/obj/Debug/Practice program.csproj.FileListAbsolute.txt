@@ -1,0 +1,5 @@
+c:\users\muhammad siraj\documents\visual studio 2012\Projects\Practice program\Practice program\bin\Debug\Practice program.exe.config
+c:\users\muhammad siraj\documents\visual studio 2012\Projects\Practice program\Practice program\bin\Debug\Practice program.exe
+c:\users\muhammad siraj\documents\visual studio 2012\Projects\Practice program\Practice program\bin\Debug\Practice program.pdb
+c:\users\muhammad siraj\documents\visual studio 2012\Projects\Practice program\Practice program\obj\Debug\Practice program.exe
+c:\users\muhammad siraj\documents\visual studio 2012\Projects\Practice program\Practice program\obj\Debug\Practice program.pdb
