@@ -1,0 +1,5 @@
+c:\users\muhammad siraj\documents\visual studio 2012\Projects\A5(q1)\A5(q1)\bin\Debug\A5(q1).exe.config
+c:\users\muhammad siraj\documents\visual studio 2012\Projects\A5(q1)\A5(q1)\bin\Debug\A5(q1).exe
+c:\users\muhammad siraj\documents\visual studio 2012\Projects\A5(q1)\A5(q1)\bin\Debug\A5(q1).pdb
+c:\users\muhammad siraj\documents\visual studio 2012\Projects\A5(q1)\A5(q1)\obj\Debug\A5(q1).exe
+c:\users\muhammad siraj\documents\visual studio 2012\Projects\A5(q1)\A5(q1)\obj\Debug\A5(q1).pdb
